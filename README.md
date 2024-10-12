@@ -1,4 +1,4 @@
-Tableau AirBNB Analysis
+# Tableau AirBNB Analysis
 This project involves an in-depth analysis of AirBNB listings in Seattle, Washington, utilizing a comprehensive dataset from Kaggle. The analysis focuses on pricing trends, geographical mapping, and occupancy insights.
 
 Part 1: Data Linking and Average Price by Zipcode
