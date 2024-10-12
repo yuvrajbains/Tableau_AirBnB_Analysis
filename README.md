@@ -19,7 +19,9 @@ I analyzed the seasonality of bookings to determine the periods when AirBNBs gen
 ### Part 4: Price Analysis by Number of Bedrooms
 By estimating the average cost of an AirBNB categorized by the number of bedrooms, the data confirms that more bedrooms generally lead to higher prices.
 
-<img width="1474" alt="Screenshot 2024-10-11 at 10 11 39 PM" src="https://github.com/user-attachments/assets/fb6b0fc8-cfc5-4d83-8759-78f9991d9f41">
+<img width="520" alt="Screenshot 2024-10-12 at 3 47 15 PM" src="https://github.com/user-attachments/assets/31a8bac1-9a93-40d6-9a38-d2c148b814ee">
+
+
 
 ### Part 5: AirBNB Listings by Bedroom Count
 Lastly, I examined the distribution of AirBNB listings by the number of bedrooms. One-bedroom listings are the most common in Seattle, reflecting the demand for smaller, more affordable spaces.
